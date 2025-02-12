@@ -19,6 +19,6 @@
 
  <a href="https://twitter.com/tejeshwin21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejeshwin21" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/tejashwin saravanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejashwin saravanan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tejash2181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tejash2181" height="30" width="40" /></a>
+
 
 
